@@ -1,2 +1,2 @@
 # Customer Segmentation
-Customer segmentation project using unsupervised KMeans clustering method
+Time cohort analysis of customer purchase behaviour  
